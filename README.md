@@ -93,7 +93,7 @@
 ## Usage
 
 ```js
-postcss([ require('postcss-bem')({
+postcss([ require('postcss-bem-fix')({
     defaultNamespace: undefined, // default namespace to use, none by default
     style: 'suit', // suit or bem, suit by default,
     separators: {

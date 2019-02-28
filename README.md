@@ -1,6 +1,10 @@
 # PostCSS Bem [![Build Status][ci-img]][ci]
 
-[PostCSS] plugin implementing BEM as at-rules. Fix for postcss v6
+[PostCSS] plugin implementing BEM as at-rules.
+
+Fix for postcss v6 (1.0.0)
+
+Fix for postcss v7 (2.0.0)
 
 [PostCSS]: https://github.com/postcss/postcss
 [ci-img]:  https://travis-ci.org/supermonkeyz/postcss-bem-fix.svg

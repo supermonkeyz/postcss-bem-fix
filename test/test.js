@@ -4,7 +4,7 @@ var expect  = require('chai').expect;
 var plugin = require('../');
 
 function process (input, opts) {
-    return postcss([ plugin(opts) ]).process(input);
+    return postcss([ plugin(opts) ]).process(input, { from: undefined });
 }
 
 function test (input, output, opts, done) {

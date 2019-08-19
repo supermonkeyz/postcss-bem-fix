@@ -1,6 +1,6 @@
 {
     "name": "postcss-bem-fix",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "PostCSS plugin implementing BEM as at-rules",
     "keywords": [
         "postcss",
@@ -8,14 +8,14 @@
         "postcss-plugin",
         "bem"
     ],
-    "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
+    "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com> | jopzmail@gmail.com",
     "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/supermonkeyz/postcss-bem-fix.git"
     },
     "dependencies": {
-        "postcss": "^7.0.14"
+        "postcss": "^7.0.17"
     },
     "devDependencies": {
         "chai": "^2.3.0",

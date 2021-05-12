@@ -15,7 +15,7 @@
         "url": "https://github.com/supermonkeyz/postcss-bem-fix.git"
     },
     "dependencies": {
-        "postcss": "^7.0.17"
+        "postcss": "^8.2.10"
     },
     "devDependencies": {
         "chai": "^2.3.0",
